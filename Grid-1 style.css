@@ -1,0 +1,27 @@
+
+.container {
+	
+	padding: 10px;
+}
+
+/* box 1 beskrvning */
+
+.box1 {
+	
+	border: 1px solid black;
+	grid-column-gap:5px;
+	
+	padding: 10px;
+	
+}
+
+/* box 2 beskrivning för border och försök på ett gap */
+
+.box2 {
+	
+	border: 1px solid black;
+	grid-column-gap:5px;
+	
+	padding: 10px;
+}
+
